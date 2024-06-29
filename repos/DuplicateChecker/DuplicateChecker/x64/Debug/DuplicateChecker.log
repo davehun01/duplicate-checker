@@ -1,0 +1,6 @@
+﻿  duplicate_checker.cpp
+C:\Users\davehun\source\repos\DuplicateChecker\DuplicateChecker\duplicate_checker.cpp(145,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\davehun\source\repos\DuplicateChecker\DuplicateChecker\duplicate_checker.cpp(146,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\davehun\source\repos\DuplicateChecker\DuplicateChecker\duplicate_checker.cpp(148,129): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\davehun\source\repos\DuplicateChecker\DuplicateChecker\duplicate_checker.cpp(149,132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DuplicateChecker.vcxproj -> C:\Users\davehun\source\repos\DuplicateChecker\x64\Debug\DuplicateChecker.exe
